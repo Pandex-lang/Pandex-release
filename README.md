@@ -5,3 +5,5 @@ Pandex later versions source code (for new versions see The 'Pandex' repo)
 Pandex published
 #  [version 0.0.0.1 Pandex]()
 add single command ( like shells ( bash , zsh ))
+# [version 0.0.02 Pandex]()
+Pandex very changed
