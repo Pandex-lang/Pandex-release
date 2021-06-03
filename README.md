@@ -9,3 +9,5 @@ add single command ( like shells ( bash , zsh ))
 Pandex very changed
 # [version 1.0.0.3 Pandex]()
 Pande used as VM
+# [version 1.0.0.3 Pandex]()
+This version developed fast and provides a simple language
